@@ -1,0 +1,256 @@
+{
+    "brand": {
+      "name": "Haile Hotels & Resorts Group",
+      "owner": "Haile Gebrselassie",
+      "founded": 2010,
+      "headquarters": "Addis Ababa, Ethiopia",
+      "website": "https://hailehotelsandresorts.com",
+      "description": "Luxury Ethiopian hotel and resort chain with locations across Ethiopia including Hawassa, Adama, Arbaminch, and Ziway."
+    },
+  
+    "common_policies": {
+      "standard_check_in_time": "2:00 PM",
+      "standard_check_out_time": "11:00 AM",
+      "minimum_check_in_age": 18,
+      "pets_allowed": false,
+      "smoking_policy": "Designated smoking areas only",
+      "children_policy": "Children are welcome",
+      "airport_shuttle": true,
+      "free_wifi": true,
+      "free_parking": true,
+      "payment_methods": [
+        "Visa",
+        "Mastercard",
+        "American Express",
+        "Cash"
+      ]
+    },
+  
+    "shared_amenities": [
+      "Free Wi-Fi",
+      "Swimming Pool",
+      "Spa",
+      "Steam & Sauna",
+      "Fitness Center",
+      "24hr Room Service",
+      "Restaurant",
+      "Bar",
+      "Conference Hall",
+      "Children Playground",
+      "Free Breakfast",
+      "Airport Shuttle",
+      "Basketball Court",
+      "Volleyball Court",
+      "Tennis Court",
+      "ATM",
+      "Concierge Service",
+      "Laundry Service",
+      "Business Center"
+    ],
+  
+    "locations": [
+      {
+        "name": "Haile Resort Hawassa",
+        "city": "Hawassa",
+        "type": "Lake Resort",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:00 AM",
+        "amenities": [
+          "Outdoor Pool",
+          "Waterslide",
+          "Mini Golf",
+          "Horse Riding",
+          "Indoor Tennis Court",
+          "Outdoor Tennis Court",
+          "Health Club",
+          "Beach Bar",
+          "Poolside Bar",
+          "4 Restaurants",
+          "Spa",
+          "Sauna",
+          "Steam Room",
+          "Bicycle Rentals",
+          "Basketball",
+          "Volleyball",
+          "Playground",
+          "Free Buffet Breakfast",
+          "Free Wi-Fi"
+        ],
+        "room_features": [
+          "Air Conditioning",
+          "Balcony",
+          "Minibar",
+          "Coffee Maker",
+          "LCD TV",
+          "Cable Channels",
+          "Bathrobes",
+          "Slippers",
+          "Safe",
+          "Desk",
+          "24hr Room Service"
+        ],
+        "restaurant_cuisine": [
+          "Ethiopian",
+          "African",
+          "American",
+          "Pizza",
+          "Local Cuisine"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "contactless_check_in": true,
+          "contactless_check_out": true,
+          "airport_transfer_available": true,
+          "children_allowed": true
+        }
+      },
+  
+      {
+        "name": "Haile Resort Arbaminch",
+        "city": "Arba Minch",
+        "type": "Resort",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:00 AM",
+        "amenities": [
+          "2 Swimming Pools",
+          "Fitness Center",
+          "Spa",
+          "Steam Room",
+          "Playground",
+          "4 Restaurants",
+          "2 Bars",
+          "Free Airport Shuttle",
+          "Free Breakfast",
+          "Outdoor Pool",
+          "Health Club",
+          "Free Wi-Fi"
+        ],
+        "room_features": [
+          "Soundproof Rooms",
+          "Satellite TV",
+          "Air Conditioning",
+          "Bathrobes",
+          "Safe",
+          "Room Service",
+          "Free Toiletries",
+          "Slippers"
+        ],
+        "restaurant_cuisine": [
+          "Ethiopian",
+          "American",
+          "French",
+          "Pizza",
+          "Local Cuisine"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "early_check_in": "Subject to availability",
+          "late_check_out": "Additional fee",
+          "extra_bed_available": true,
+          "free_crib_available": true
+        }
+      },
+  
+      {
+        "name": "Haile Resort Ziway",
+        "city": "Ziway",
+        "type": "Lake Resort",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:00 AM",
+        "amenities": [
+          "Outdoor Pool",
+          "Children's Pool",
+          "Indoor Tennis Court",
+          "Health Club",
+          "Spa",
+          "Steam Room",
+          "Playground",
+          "Arcade/Game Room",
+          "Restaurant",
+          "Coffee Shop",
+          "Bar/Lounge",
+          "Garden",
+          "Terrace",
+          "Business Center",
+          "Free Wi-Fi",
+          "Free Parking"
+        ],
+        "room_features": [
+          "Flat-screen TV",
+          "Cable Channels",
+          "Air Conditioning",
+          "Desk",
+          "Safe",
+          "Electric Kettle",
+          "Bathrobes",
+          "Slippers",
+          "24hr Room Service"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "children_under_5_stay_free": true,
+          "free_cribs_available": true,
+          "airport_shuttle_available": true
+        }
+      },
+  
+      {
+        "name": "Haile Resort Adama",
+        "city": "Adama",
+        "type": "City Resort",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:30 AM",
+        "amenities": [
+          "Free Wi-Fi",
+          "Restaurant",
+          "Room Service",
+          "Conference Facilities",
+          "Parking",
+          "Business Services"
+        ],
+        "room_features": [
+          "Laptop Workspace",
+          "Cable TV",
+          "Air Conditioning",
+          "Safe",
+          "Desk",
+          "Connecting Rooms"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "late_check_in_fee": true,
+          "children_allowed": true
+        }
+      }
+    ],
+  
+    "ai_assistant_context": {
+      "brand_tone": "Luxury Ethiopian hospitality with family-friendly resort experiences",
+      "target_customers": [
+        "Tourists",
+        "Business Travelers",
+        "Families",
+        "Conference Guests",
+        "Wedding Events",
+        "Local Vacation Travelers"
+      ],
+      "popular_features": [
+        "Lake Views",
+        "Spa & Wellness",
+        "Conference Events",
+        "Ethiopian Cuisine",
+        "Family Activities",
+        "Luxury Accommodation"
+      ],
+      "services_supported_by_ai": [
+        "Room Booking Assistance",
+        "Restaurant Recommendations",
+        "Spa Booking",
+        "Airport Pickup Requests",
+        "Local Tourism Information",
+        "Conference/Event Inquiry",
+        "Room Service Ordering",
+        "QR Menu Assistance"
+      ]
+    }
+  }
