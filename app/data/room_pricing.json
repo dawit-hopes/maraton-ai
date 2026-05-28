@@ -1,0 +1,532 @@
+{
+  "currency": "ETB",
+  "last_updated": "2026-05-26",
+  "pricing_notes": [
+    "All room rates are per night and include complimentary buffet breakfast.",
+    "Rates include 15% VAT and 10% service charge unless stated otherwise.",
+    "Children under 5 stay free when sharing with parents (existing bedding).",
+    "Weekend rates apply Friday and Saturday nights.",
+    "Peak season surcharges apply during Ethiopian holidays and school vacation periods."
+  ],
+  "seasons": {
+    "standard": {
+      "label": "Standard Season",
+      "months": ["January", "February", "March", "April", "May", "June", "September", "October", "November"]
+    },
+    "peak": {
+      "label": "Peak Season",
+      "months": ["July", "August", "December"],
+      "surcharge_percent": 15
+    }
+  },
+  "locations": {
+    "hawassa": {
+      "display_name": "Haile Resort Hawassa",
+      "city": "Hawassa",
+      "type": "Lake Resort",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 32,
+          "view": "Garden View",
+          "rates": {
+            "weekday": 6500,
+            "weekend": 7200,
+            "peak_weekday": 7500,
+            "peak_weekend": 8300
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 40,
+          "view": "Partial Lake View",
+          "rates": {
+            "weekday": 8500,
+            "weekend": 9400,
+            "peak_weekday": 9800,
+            "peak_weekend": 10800
+          }
+        },
+        "Family Room": {
+          "available": true,
+          "max_guests": 4,
+          "bed_configuration": "1 King + 2 Single Beds",
+          "size_sqm": 52,
+          "view": "Garden or Partial Lake View",
+          "rates": {
+            "weekday": 11200,
+            "weekend": 12400,
+            "peak_weekday": 12900,
+            "peak_weekend": 14200
+          }
+        },
+        "Suite": {
+          "available": false,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 68,
+          "view": "Full Lake View & Balcony",
+          "rates": {
+            "weekday": 14000,
+            "weekend": 15500,
+            "peak_weekday": 16100,
+            "peak_weekend": 17800
+          },
+          "alternative": "Deluxe"
+        }
+      }
+    },
+    "arba minch": {
+      "display_name": "Haile Resort Arbaminch",
+      "city": "Arba Minch",
+      "type": "Resort",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 30,
+          "view": "Mountain View",
+          "rates": {
+            "weekday": 5800,
+            "weekend": 6400,
+            "peak_weekday": 6700,
+            "peak_weekend": 7400
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 38,
+          "view": "Lake Chamo View",
+          "rates": {
+            "weekday": 7900,
+            "weekend": 8700,
+            "peak_weekday": 9100,
+            "peak_weekend": 10000
+          }
+        },
+        "Family Room": {
+          "available": true,
+          "max_guests": 4,
+          "bed_configuration": "1 King + 2 Single Beds",
+          "size_sqm": 48,
+          "view": "Garden or Lake View",
+          "rates": {
+            "weekday": 10500,
+            "weekend": 11600,
+            "peak_weekday": 12100,
+            "peak_weekend": 13300
+          }
+        },
+        "Suite": {
+          "available": true,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 62,
+          "view": "Panoramic Twin Lakes View",
+          "rates": {
+            "weekday": 12500,
+            "weekend": 13800,
+            "peak_weekday": 14400,
+            "peak_weekend": 15900
+          }
+        }
+      }
+    },
+    "ziway": {
+      "display_name": "Haile Resort Ziway",
+      "city": "Ziway",
+      "type": "Lake Resort",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 30,
+          "view": "Garden View",
+          "rates": {
+            "weekday": 5200,
+            "weekend": 5700,
+            "peak_weekday": 6000,
+            "peak_weekend": 6600
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 36,
+          "view": "Lake Ziway View",
+          "rates": {
+            "weekday": 7200,
+            "weekend": 7900,
+            "peak_weekday": 8300,
+            "peak_weekend": 9100
+          }
+        },
+        "Family Room": {
+          "available": true,
+          "max_guests": 4,
+          "bed_configuration": "1 King + 2 Single Beds",
+          "size_sqm": 46,
+          "view": "Lake or Garden View",
+          "rates": {
+            "weekday": 9800,
+            "weekend": 10800,
+            "peak_weekday": 11300,
+            "peak_weekend": 12400
+          }
+        },
+        "Suite": {
+          "available": true,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 58,
+          "view": "Full Lake View & Balcony",
+          "rates": {
+            "weekday": 11800,
+            "weekend": 13000,
+            "peak_weekday": 13600,
+            "peak_weekend": 15000
+          }
+        }
+      }
+    },
+    "adama": {
+      "display_name": "Haile Resort Adama",
+      "city": "Adama",
+      "type": "City Resort",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 28,
+          "view": "City or Garden View",
+          "rates": {
+            "weekday": 4800,
+            "weekend": 5300,
+            "peak_weekday": 5500,
+            "peak_weekend": 6100
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 34,
+          "view": "City View",
+          "rates": {
+            "weekday": 6500,
+            "weekend": 7200,
+            "peak_weekday": 7500,
+            "peak_weekend": 8300
+          }
+        },
+        "Executive": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed + Work Desk",
+          "size_sqm": 40,
+          "view": "City Skyline View",
+          "rates": {
+            "weekday": 8200,
+            "weekend": 9000,
+            "peak_weekday": 9400,
+            "peak_weekend": 10400
+          }
+        },
+        "Suite": {
+          "available": true,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 55,
+          "view": "Executive Suite with Lounge",
+          "rates": {
+            "weekday": 10500,
+            "weekend": 11600,
+            "peak_weekday": 12100,
+            "peak_weekend": 13300
+          }
+        }
+      }
+    },
+    "addis ababa": {
+      "display_name": "Haile Hotels Addis Ababa",
+      "city": "Addis Ababa",
+      "type": "City Hotel",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 30,
+          "view": "City View",
+          "rates": {
+            "weekday": 7500,
+            "weekend": 8300,
+            "peak_weekday": 8600,
+            "peak_weekend": 9500
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 38,
+          "view": "City or Mountain View",
+          "rates": {
+            "weekday": 9800,
+            "weekend": 10800,
+            "peak_weekday": 11300,
+            "peak_weekend": 12400
+          }
+        },
+        "Executive": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed + Lounge Access",
+          "size_sqm": 42,
+          "view": "Premium City View",
+          "rates": {
+            "weekday": 12500,
+            "weekend": 13800,
+            "peak_weekday": 14400,
+            "peak_weekend": 15900
+          }
+        },
+        "Suite": {
+          "available": true,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 65,
+          "view": "Panoramic City View",
+          "rates": {
+            "weekday": 16800,
+            "weekend": 18500,
+            "peak_weekday": 19300,
+            "peak_weekend": 21300
+          }
+        }
+      }
+    },
+    "gondar": {
+      "display_name": "Haile Hotels Gondar",
+      "city": "Gondar",
+      "type": "Heritage City Hotel",
+      "room_types": {
+        "Standard": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King or 2 Twin Beds",
+          "size_sqm": 28,
+          "view": "Garden View",
+          "rates": {
+            "weekday": 5500,
+            "weekend": 6100,
+            "peak_weekday": 6300,
+            "peak_weekend": 7000
+          }
+        },
+        "Deluxe": {
+          "available": true,
+          "max_guests": 2,
+          "bed_configuration": "1 King Bed",
+          "size_sqm": 35,
+          "view": "Historic City View",
+          "rates": {
+            "weekday": 7400,
+            "weekend": 8200,
+            "peak_weekday": 8500,
+            "peak_weekend": 9400
+          }
+        },
+        "Family Room": {
+          "available": true,
+          "max_guests": 4,
+          "bed_configuration": "1 King + 2 Single Beds",
+          "size_sqm": 44,
+          "view": "Garden or City View",
+          "rates": {
+            "weekday": 9900,
+            "weekend": 10900,
+            "peak_weekday": 11400,
+            "peak_weekend": 12500
+          }
+        },
+        "Suite": {
+          "available": false,
+          "max_guests": 3,
+          "bed_configuration": "1 King Bed + Living Area",
+          "size_sqm": 56,
+          "view": "Royal Heritage Suite View",
+          "rates": {
+            "weekday": 12200,
+            "weekend": 13400,
+            "peak_weekday": 14000,
+            "peak_weekend": 15400
+          },
+          "alternative": "Deluxe"
+        }
+      }
+    }
+  },
+  "add_on_services": {
+    "dining": {
+      "buffet_breakfast_adult": {
+        "price": 0,
+        "unit": "per person per night",
+        "note": "Included with all room rates"
+      },
+      "buffet_breakfast_child_6_12": {
+        "price": 450,
+        "unit": "per person per night"
+      },
+      "room_service_delivery_fee": {
+        "price": 150,
+        "unit": "per order"
+      },
+      "traditional_coffee_ceremony_private": {
+        "price": 1200,
+        "unit": "per session (up to 4 guests)"
+      },
+      "private_dinner_lake_view": {
+        "price": 4500,
+        "unit": "per couple (food excluded)"
+      }
+    },
+    "spa_and_wellness": {
+      "swedish_massage_60min": {
+        "price": 1800,
+        "unit": "per person"
+      },
+      "deep_tissue_massage_60min": {
+        "price": 2200,
+        "unit": "per person"
+      },
+      "couples_spa_package_90min": {
+        "price": 6500,
+        "unit": "per couple"
+      },
+      "sauna_steam_access": {
+        "price": 0,
+        "unit": "per guest per stay",
+        "note": "Complimentary for in-house guests"
+      },
+      "day_spa_pass_non_guest": {
+        "price": 2500,
+        "unit": "per person per day"
+      }
+    },
+    "transport": {
+      "airport_pickup_bole": {
+        "price": 1800,
+        "unit": "one way (Addis Ababa Bole Airport)"
+      },
+      "airport_pickup_hawassa": {
+        "price": 1200,
+        "unit": "one way (Hawassa Airport)"
+      },
+      "airport_pickup_arba_minch": {
+        "price": 900,
+        "unit": "one way (Arba Minch Airport)"
+      },
+      "city_shuttle_adama": {
+        "price": 600,
+        "unit": "one way (within Adama city center)"
+      },
+      "car_rental_with_driver_daily": {
+        "price": 5500,
+        "unit": "per day (8 hours, sedan)"
+      }
+    },
+    "activities": {
+      "horse_riding_hawassa_30min": {
+        "price": 800,
+        "unit": "per person"
+      },
+      "boat_trip_lake_chamo_half_day": {
+        "price": 3500,
+        "unit": "per boat (up to 6 guests)"
+      },
+      "boat_trip_lake_ziway_2hr": {
+        "price": 2200,
+        "unit": "per boat (up to 4 guests)"
+      },
+      "tennis_court_1hr": {
+        "price": 600,
+        "unit": "per court"
+      },
+      "guided_city_tour_gondar_half_day": {
+        "price": 2800,
+        "unit": "per group (up to 4 guests)"
+      }
+    },
+    "events_and_business": {
+      "conference_hall_half_day": {
+        "price": 25000,
+        "unit": "half day (up to 80 pax, basic AV included)"
+      },
+      "conference_hall_full_day": {
+        "price": 42000,
+        "unit": "full day (up to 80 pax, basic AV included)"
+      },
+      "wedding_venue_lakefront": {
+        "price": 85000,
+        "unit": "per event (venue only, Hawassa)"
+      },
+      "coffee_break_per_person": {
+        "price": 350,
+        "unit": "per person"
+      },
+      "business_lunch_set_menu": {
+        "price": 850,
+        "unit": "per person"
+      }
+    }
+  },
+  "fees_and_policies": {
+    "extra_bed_per_night": {
+      "price": 1500,
+      "unit": "per night"
+    },
+    "crib_per_night": {
+      "price": 0,
+      "unit": "per night",
+      "note": "Complimentary, subject to availability"
+    },
+    "late_check_out_until_2pm": {
+      "price": 1500,
+      "unit": "flat fee",
+      "note": "Subject to availability"
+    },
+    "late_check_out_until_6pm": {
+      "price": 50,
+      "unit": "percent of room rate",
+      "note": "Subject to availability"
+    },
+    "early_check_in_before_10am": {
+      "price": 50,
+      "unit": "percent of room rate",
+      "note": "Subject to availability"
+    },
+    "no_show_penalty": {
+      "price": 100,
+      "unit": "percent of first night rate"
+    },
+    "cancellation_within_48hrs": {
+      "price": 100,
+      "unit": "percent of first night rate"
+    },
+    "pet_fee": {
+      "price": null,
+      "note": "Pets are not permitted at any Haile property"
+    }
+  }
+}

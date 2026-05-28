@@ -221,6 +221,88 @@
           "late_check_in_fee": true,
           "children_allowed": true
         }
+      },
+
+      {
+        "name": "Haile Grand Addis Ababa",
+        "city": "Addis Ababa",
+        "type": "City Hotel",
+        "address": "Lamberet Square, Asmara Road, Yeka, Addis Ababa",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:00 AM",
+        "amenities": [
+          "Outdoor Swimming Pool",
+          "Full-Service Spa",
+          "Sauna and Steam Room",
+          "Fitness Center",
+          "Yoga and Aerobics Classes",
+          "Beauty Salon",
+          "Restaurant (Mexican, Middle Eastern, Asian, International)",
+          "Lobby Bar",
+          "Free Airport Shuttle",
+          "Free Wi-Fi",
+          "Free Parking",
+          "Garden and Terrace",
+          "Conference and Ballroom Facilities",
+          "24hr Room Service",
+          "Concierge"
+        ],
+        "room_features": [
+          "City or Mountain Views",
+          "Air Conditioning",
+          "Tea/Coffee Maker",
+          "In-room Safe",
+          "Premium and Executive Suites",
+          "Presidential Suite"
+        ],
+        "restaurant_cuisine": [
+          "Ethiopian",
+          "Mexican",
+          "Middle Eastern",
+          "Asian",
+          "International"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "children_allowed": true,
+          "airport_transfer_available": true,
+          "free_airport_shuttle": true
+        }
+      },
+
+      {
+        "name": "Haile Resort Gondar",
+        "city": "Gondar",
+        "type": "Heritage City Hotel",
+        "check_in_time": "2:00 PM",
+        "check_out_time": "11:00 AM",
+        "amenities": [
+          "Swimming Pool",
+          "Restaurant",
+          "Bar",
+          "Conference Halls",
+          "Wedding Venues",
+          "Free Wi-Fi",
+          "Free Parking",
+          "Concierge for Simien Mountains Tours"
+        ],
+        "room_features": [
+          "Garden or Historic City Views",
+          "Air Conditioning",
+          "Satellite TV",
+          "In-room Safe",
+          "Bathrobes",
+          "Desk"
+        ],
+        "restaurant_cuisine": [
+          "Ethiopian",
+          "International"
+        ],
+        "policies": {
+          "pets_allowed": false,
+          "children_allowed": true,
+          "children_under_5_stay_free": true
+        }
       }
     ],
   

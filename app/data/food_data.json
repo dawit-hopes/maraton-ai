@@ -1,0 +1,252 @@
+{
+  "currency": "ETB",
+  "room_service_hours": "24 hours",
+  "breakfast_buffet_hours": "6:00 AM – 10:00 AM",
+  "dining_notes": [
+    "Complimentary buffet breakfast is included with all room rates.",
+    "All Haile resorts feature multiple food and beverage outlets serving Ethiopian and international cuisine.",
+    "Fresh lake fish from Hawassa, Ziway, and Arba Minch is a specialty at lakeside properties.",
+    "Traditional Ethiopian coffee ceremony can be arranged for private groups.",
+    "Room service delivery fee: 150 ETB per order."
+  ],
+  "signature_dishes": [
+    {
+      "name": "Doro Wat",
+      "category": "Ethiopian Main",
+      "description": "Slow-cooked chicken stew in rich berbere sauce with a hard-boiled egg, served with injera.",
+      "spice_level": "Medium-Hot",
+      "dietary": ["Contains poultry", "Gluten-free if served with teff injera"],
+      "price_range_etb": "450–650",
+      "recommended_pairing": "St. George beer or fresh mango juice"
+    },
+    {
+      "name": "Tibs",
+      "category": "Ethiopian Main",
+      "description": "Sautéed cubes of beef or lamb with onions, peppers, and rosemary. Available wet (with sauce) or dry.",
+      "spice_level": "Mild-Medium",
+      "dietary": ["Contains meat"],
+      "price_range_etb": "550–750",
+      "recommended_pairing": "Tej (honey wine) or Ambo sparkling water"
+    },
+    {
+      "name": "Kitfo",
+      "category": "Ethiopian Main",
+      "description": "Finely minced raw beef seasoned with mitmita and niter kibbeh (spiced clarified butter). Served leb leb (lightly warmed) or fully cooked.",
+      "spice_level": "Medium",
+      "dietary": ["Contains raw meat", "Contains dairy"],
+      "price_range_etb": "600–850",
+      "recommended_pairing": "Ayib (Ethiopian cottage cheese) and fresh juice"
+    },
+    {
+      "name": "Shiro",
+      "category": "Ethiopian Vegetarian",
+      "description": "Creamy chickpea flour stew with berbere, a hearty vegan staple.",
+      "spice_level": "Mild-Medium",
+      "dietary": ["Vegan", "Gluten-free"],
+      "price_range_etb": "250–350",
+      "recommended_pairing": "Injera and Ethiopian coffee"
+    },
+    {
+      "name": "Beyaynetu (Vegetarian Combo)",
+      "category": "Ethiopian Vegetarian",
+      "description": "A colorful platter of fasting dishes — lentils, greens, cabbage, and more on injera.",
+      "spice_level": "Mild",
+      "dietary": ["Vegan", "Gluten-free with teff injera"],
+      "price_range_etb": "350–450",
+      "recommended_pairing": "Fresh lime juice or spris (mixed fruit juice)"
+    },
+    {
+      "name": "Asa Tibs (Lake Fish)",
+      "category": "Local Specialty",
+      "description": "Fresh tilapia or catfish from the Rift Valley lakes, pan-fried with berbere and herbs.",
+      "spice_level": "Medium",
+      "dietary": ["Contains fish", "Gluten-free"],
+      "price_range_etb": "500–700",
+      "available_at": ["Hawassa", "Arba Minch", "Ziway"],
+      "recommended_pairing": "Fresh avocado salad and white wine"
+    },
+    {
+      "name": "Asa Dulet",
+      "category": "Local Specialty",
+      "description": "Spiced minced fish sautéed with berbere, a guest favorite at Haile Resort Arba Minch.",
+      "spice_level": "Medium-Hot",
+      "dietary": ["Contains fish"],
+      "price_range_etb": "450–600",
+      "available_at": ["Arba Minch"],
+      "recommended_pairing": "Soursop or mango juice"
+    },
+    {
+      "name": "Ethiopian Coffee Ceremony (Buna)",
+      "category": "Beverage Experience",
+      "description": "Traditional three-round coffee ceremony with popcorn, incense, and freshly roasted beans — often from Haile Gebreselassie's own coffee farms.",
+      "spice_level": "None",
+      "dietary": ["Vegan"],
+      "price_range_etb": "Complimentary at breakfast; private ceremony 1,200 ETB (up to 4 guests)",
+      "recommended_pairing": "Tenadam (rue) leaves and popcorn"
+    }
+  ],
+  "locations": {
+    "hawassa": {
+      "display_name": "Haile Resort Hawassa",
+      "outlets": [
+        {
+          "name": "Main Restaurant",
+          "type": "All-day dining",
+          "hours": "6:00 AM – 11:00 PM",
+          "cuisine": ["Ethiopian", "International", "Continental"],
+          "highlights": "Lake-view dining with fresh fish from Lake Hawassa",
+          "menu_items": [
+            {"name": "Lake Hawassa Tilapia", "price": 550, "description": "Grilled whole tilapia with lemon and herbs", "dietary": ["Gluten-free"], "available": true},
+            {"name": "Doro Wat", "price": 650, "description": "Classic chicken stew with berbere", "dietary": ["Contains poultry"], "available": true},
+            {"name": "Beef Tibs", "price": 600, "description": "Sautéed beef with rosemary and peppers", "dietary": ["Contains meat"], "available": true},
+            {"name": "Vegetarian Beyaynetu", "price": 380, "description": "Assorted fasting dishes on injera", "dietary": ["Vegan"], "available": true},
+            {"name": "Club Sandwich", "price": 420, "description": "Triple-decker with fries", "dietary": ["Contains gluten", "Contains poultry"], "available": true},
+            {"name": "Margherita Pizza", "price": 480, "description": "Wood-fired pizza with fresh mozzarella", "dietary": ["Contains gluten", "Contains dairy"], "available": true}
+          ]
+        },
+        {
+          "name": "Beach Bar",
+          "type": "Bar & light bites",
+          "hours": "10:00 AM – 10:00 PM",
+          "cuisine": ["Snacks", "Cocktails", "Fresh juices"],
+          "highlights": "Poolside and lakeside cocktails",
+          "menu_items": [
+            {"name": "Grilled Fish Skewers", "price": 380, "description": "Lake fish with chili glaze", "available": true},
+            {"name": "Fresh Mango Juice", "price": 150, "description": "Large glass, no added sugar", "dietary": ["Vegan"], "available": true},
+            {"name": "St. George Beer", "price": 80, "description": "Ethiopia's classic lager", "available": true}
+          ]
+        },
+        {
+          "name": "Poolside Bar",
+          "type": "Bar",
+          "hours": "11:00 AM – 9:00 PM",
+          "menu_items": [
+            {"name": "Caesar Salad", "price": 320, "description": "Crisp romaine with parmesan", "available": true},
+            {"name": "Chicken Burger", "price": 450, "description": "With fries and coleslaw", "available": true}
+          ]
+        }
+      ]
+    },
+    "arba minch": {
+      "display_name": "Haile Resort Arba Minch",
+      "outlets": [
+        {
+          "name": "Grand View Restaurant",
+          "type": "All-day dining",
+          "hours": "6:00 AM – 11:00 PM",
+          "cuisine": ["Ethiopian", "French", "American", "Pizza"],
+          "highlights": "Panoramic views over Lakes Abaya and Chamo",
+          "menu_items": [
+            {"name": "Asa Dulet", "price": 500, "description": "Spiced minced fish — guest favorite", "dietary": ["Contains fish"], "available": true},
+            {"name": "Kitfo", "price": 750, "description": "Premium minced beef, leb leb style", "dietary": ["Contains raw meat"], "available": true},
+            {"name": "Grilled Lake Chamo Fish", "price": 580, "description": "Whole grilled fish with vegetables", "dietary": ["Gluten-free"], "available": true},
+            {"name": "French Onion Soup", "price": 280, "description": "Classic with gruyère crouton", "available": true},
+            {"name": "Soursop Juice", "price": 180, "description": "Fresh tropical juice — highly recommended", "dietary": ["Vegan"], "available": true},
+            {"name": "Pizza Margherita", "price": 450, "description": "Thin crust with tomato and basil", "available": true}
+          ]
+        },
+        {
+          "name": "Viewpoint Coffee Shop",
+          "type": "Café",
+          "hours": "7:00 AM – 8:00 PM",
+          "menu_items": [
+            {"name": "Ethiopian Coffee", "price": 60, "description": "Single origin, freshly brewed", "available": true},
+            {"name": "Avocado Toast", "price": 250, "description": "Sourdough with poached egg option", "available": true},
+            {"name": "Fresh Fruit Platter", "price": 350, "description": "Seasonal tropical and local fruits", "dietary": ["Vegan"], "available": true}
+          ]
+        }
+      ]
+    },
+    "ziway": {
+      "display_name": "Haile Resort Ziway (Batu)",
+      "outlets": [
+        {
+          "name": "Lakeview Restaurant",
+          "type": "All-day dining",
+          "hours": "6:00 AM – 10:30 PM",
+          "cuisine": ["Ethiopian", "International"],
+          "highlights": "Views over Lake Ziway, fresh lake fish",
+          "menu_items": [
+            {"name": "Lake Ziway Fish Curry", "price": 520, "description": "Mild coconut-berbere curry", "dietary": ["Contains fish"], "available": true},
+            {"name": "Shiro", "price": 280, "description": "Chickpea stew with injera", "dietary": ["Vegan"], "available": true},
+            {"name": "Grilled Chicken Breast", "price": 480, "description": "Herb-marinated with seasonal vegetables", "available": true},
+            {"name": "Pasta Alfredo", "price": 420, "description": "Creamy fettuccine with parmesan", "available": true}
+          ]
+        },
+        {
+          "name": "Coffee Shop & Bar",
+          "type": "Café & Bar",
+          "hours": "8:00 AM – 9:00 PM",
+          "menu_items": [
+            {"name": "Macchiato", "price": 45, "description": "Ethiopian-style strong coffee with foam", "available": true},
+            {"name": "Club Sandwich", "price": 380, "description": "Served with potato chips", "available": true}
+          ]
+        }
+      ]
+    },
+    "adama": {
+      "display_name": "Haile Resort Adama",
+      "outlets": [
+        {
+          "name": "Main Restaurant",
+          "type": "All-day dining",
+          "hours": "6:00 AM – 10:00 PM",
+          "cuisine": ["Ethiopian", "International"],
+          "menu_items": [
+            {"name": "Mixed Ethiopian Platter", "price": 550, "description": "Meat and vegetarian combo for two", "available": true},
+            {"name": "Grilled Steak", "price": 680, "description": "250g ribeye with pepper sauce", "available": true},
+            {"name": "Caesar Salad", "price": 300, "description": "With grilled chicken option (+120 ETB)", "available": true},
+            {"name": "Business Lunch Set", "price": 850, "description": "Soup, main, dessert, and coffee", "available": true}
+          ]
+        }
+      ]
+    },
+    "addis ababa": {
+      "display_name": "Haile Grand Addis Ababa",
+      "outlets": [
+        {
+          "name": "Grand Restaurant",
+          "type": "Fine dining",
+          "hours": "6:00 AM – 11:00 PM",
+          "cuisine": ["Ethiopian", "Mexican", "Middle Eastern", "Asian", "International"],
+          "highlights": "Five-star dining with city views at Lamberet Square",
+          "menu_items": [
+            {"name": "Ethiopian Tasting Platter", "price": 950, "description": "Chef's selection of five traditional dishes", "available": true},
+            {"name": "Sushi Platter", "price": 1200, "description": "12-piece assorted nigiri and maki", "available": true},
+            {"name": "Lamb Tagine", "price": 780, "description": "Middle Eastern slow-cooked lamb with couscous", "available": true},
+            {"name": "Chicken Fajitas", "price": 650, "description": "Sizzling Mexican-style with guacamole", "available": true},
+            {"name": "Tom Yum Soup", "price": 380, "description": "Spicy Thai soup with prawns", "available": true},
+            {"name": "Doro Wat", "price": 720, "description": "Premium version with free-range chicken", "available": true}
+          ]
+        },
+        {
+          "name": "Lobby Bar",
+          "type": "Bar",
+          "hours": "11:00 AM – 12:00 AM",
+          "menu_items": [
+            {"name": "Signature Marathon Cocktail", "price": 350, "description": "Haile-themed house cocktail", "available": true},
+            {"name": "Ethiopian Wine Selection", "price": 450, "description": "Glass of Rift Valley red or white", "available": true}
+          ]
+        }
+      ]
+    },
+    "gondar": {
+      "display_name": "Haile Resort Gondar",
+      "outlets": [
+        {
+          "name": "Heritage Restaurant",
+          "type": "All-day dining",
+          "hours": "6:00 AM – 10:00 PM",
+          "cuisine": ["Ethiopian", "International"],
+          "highlights": "Cultural dining near UNESCO World Heritage sites",
+          "menu_items": [
+            {"name": "Royal Platter", "price": 850, "description": "Inspired by Gondar's imperial cuisine", "available": true},
+            {"name": "Tibs", "price": 580, "description": "Traditional sautéed beef", "available": true},
+            {"name": "Vegetarian Combo", "price": 350, "description": "Fasting platter with five dishes", "dietary": ["Vegan"], "available": true},
+            {"name": "Grilled Lamb Chops", "price": 720, "description": "With rosemary and roasted vegetables", "available": true}
+          ]
+        }
+      ]
+    }
+  }
+}

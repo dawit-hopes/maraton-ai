@@ -1,0 +1,124 @@
+{
+  "front_desk": {
+    "hours": "24 hours",
+    "phone_note": "Dial 0 from any in-room phone to reach the front desk",
+    "services": [
+      "Check-in and check-out",
+      "Wake-up calls",
+      "Luggage storage",
+      "Concierge and tour arrangements",
+      "Currency exchange guidance",
+      "Lost and found"
+    ]
+  },
+  "room_service": {
+    "hours": "24 hours",
+    "delivery_time_minutes": "20–45",
+    "delivery_fee_etb": 150,
+    "how_to_order": "Use the in-room QR menu, call room service from your room phone, or ask Selam (this chat assistant) to place an order."
+  },
+  "housekeeping": {
+    "hours": "7:00 AM – 9:00 PM",
+    "daily_service": "Rooms are serviced daily. Turn-down service available on request.",
+    "requests": [
+      {"type": "extra_towels", "response_time": "15–30 minutes", "fee_etb": 0},
+      {"type": "extra_pillows", "response_time": "15–30 minutes", "fee_etb": 0},
+      {"type": "extra_blankets", "response_time": "15–30 minutes", "fee_etb": 0},
+      {"type": "room_cleaning", "response_time": "30–60 minutes", "fee_etb": 0},
+      {"type": "do_not_disturb", "response_time": "Immediate", "fee_etb": 0}
+    ]
+  },
+  "laundry": {
+    "hours": "7:00 AM – 8:00 PM",
+    "pickup": "Place items in the laundry bag with the completed form; call housekeeping or front desk for pickup.",
+    "turnaround": {
+      "express_4hr": "Available until 2:00 PM, surcharge applies",
+      "standard_24hr": "Returned next day by 6:00 PM",
+      "standard_48hr": "Default service"
+    },
+    "pricing_note": "Price list available in-room; shirts from approximately 80 ETB, suits from 250 ETB"
+  },
+  "spa_and_wellness": {
+    "name": "Eden Spa (Hawassa) / Haile Wellness Center",
+    "hours": "9:00 AM – 8:00 PM daily",
+    "booking": "Reserve through the front desk or spa reception at least 2 hours in advance",
+    "complimentary_for_guests": [
+      "Sauna and steam room access",
+      "Fitness center / health club",
+      "Swimming pool"
+    ],
+    "paid_services": [
+      {"name": "Swedish Massage (60 min)", "price_etb": 1800},
+      {"name": "Deep Tissue Massage (60 min)", "price_etb": 2200},
+      {"name": "Couples Spa Package (90 min)", "price_etb": 6500},
+      {"name": "Manicure & Pedicure", "price_etb": "800–1200"},
+      {"name": "Ladies Beauty Salon", "price_etb": "Varies — ask spa reception"}
+    ]
+  },
+  "transport": {
+    "airport_shuttle": {
+      "available": true,
+      "free_at_properties": ["Hawassa", "Arba Minch", "Addis Ababa (Haile Grand)"],
+      "booking": "Provide flight details at least 24 hours before arrival",
+      "paid_options": [
+        {"route": "Bole Airport pickup (Addis Ababa)", "price_etb": 1800, "duration": "30–45 min"},
+        {"route": "Hawassa Airport", "price_etb": 1200, "duration": "15–20 min"},
+        {"route": "Arba Minch Airport", "price_etb": 900, "duration": "10–15 min"}
+      ]
+    },
+    "car_rental_with_driver": {
+      "price_etb": 5500,
+      "unit": "per day (8 hours, sedan)",
+      "booking": "Through front desk concierge"
+    },
+    "city_shuttle_adama": {
+      "price_etb": 600,
+      "unit": "one way within city center"
+    }
+  },
+  "business_and_events": {
+    "business_center": {
+      "hours": "7:00 AM – 10:00 PM",
+      "services": ["Printing", "Photocopying", "Computer access", "High-speed internet"]
+    },
+    "conference_booking": "Contact events team via front desk or hailehotelsandresorts.com",
+    "sample_venues": {
+      "hawassa": [
+        {"name": "Hawassa Grand Hall", "capacity": "150–500"},
+        {"name": "Olympic Hall", "capacity": "500–3000"}
+      ],
+      "addis_ababa": [
+        {"name": "Entoto Ballroom", "capacity": "Up to 800 theater style"},
+        {"name": "Chillalo Ballroom", "capacity": "Up to 1000 theater style"}
+      ],
+      "gondar": [
+        {"name": "Atse Tewodros Hall", "capacity": "500–800"},
+        {"name": "Etege Mentewab Hall", "capacity": "150–250"}
+      ]
+    }
+  },
+  "check_in_out_policies": {
+    "standard_check_in": "2:00 PM",
+    "standard_check_out": "11:00 AM (11:30 AM at Adama)",
+    "early_check_in": "Subject to availability; 50% of room rate if before 10:00 AM",
+    "late_check_out_until_2pm": "1,500 ETB flat fee, subject to availability",
+    "late_check_out_until_6pm": "50% of room rate, subject to availability",
+    "contactless_check_in": true,
+    "minimum_age": 18
+  },
+  "guest_requests_ai_can_handle": [
+    "extra_towels",
+    "extra_pillows",
+    "extra_blankets",
+    "room_cleaning",
+    "laundry_pickup",
+    "wake_up_call",
+    "airport_transfer",
+    "late_checkout",
+    "do_not_disturb",
+    "food_and_beverage_orders",
+    "menu_inquiries",
+    "spa_information",
+    "local_area_recommendations"
+  ]
+}

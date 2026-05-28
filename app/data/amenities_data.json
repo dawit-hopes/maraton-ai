@@ -1,0 +1,272 @@
+{
+  "group_wide": {
+    "included_with_stay": [
+      "Complimentary buffet breakfast",
+      "Free high-speed Wi-Fi",
+      "Free on-site parking",
+      "Swimming pool access",
+      "Fitness center / health club",
+      "Sauna and steam room",
+      "24-hour room service",
+      "Concierge service",
+      "Daily housekeeping"
+    ],
+    "available_on_request": [
+      "Airport shuttle",
+      "Babysitting / childcare",
+      "Car rental with driver",
+      "Laundry and dry cleaning",
+      "Extra bed (1,500 ETB/night)",
+      "Free crib (subject to availability)",
+      "Traditional coffee ceremony (private)",
+      "Bicycle rentals (select properties)"
+    ]
+  },
+  "locations": {
+    "hawassa": {
+      "display_name": "Haile Resort Hawassa",
+      "property_highlights": "126-room lakeside resort on the shores of Lake Hawassa, 275 km from Addis Ababa",
+      "amenities": {
+        "pools_and_water": [
+          "Outdoor swimming pool with waterslide",
+          "Children's pool",
+          "Hot tub",
+          "Beach bar on the lakefront"
+        ],
+        "sports_and_recreation": [
+          "Indoor tennis court",
+          "Outdoor tennis court",
+          "Mini golf",
+          "Horse riding",
+          "Basketball court",
+          "Volleyball court",
+          "Bicycle rentals",
+          "Boat trips on Lake Hawassa (via concierge)"
+        ],
+        "wellness": [
+          "Eden Spa — full-service spa",
+          "Health club with modern equipment",
+          "Steam room",
+          "Sauna",
+          "Massage services (Swedish, deep tissue)"
+        ],
+        "dining": [
+          "8 food and beverage outlets",
+          "4 restaurants",
+          "Beach bar",
+          "Poolside bar",
+          "Free buffet breakfast (6 AM – 10 AM)"
+        ],
+        "family": [
+          "Children's playground",
+          "Kids pool",
+          "Family rooms and apartments",
+          "Babysitting on request"
+        ],
+        "business": [
+          "5 conference halls (15 to 3,000 capacity)",
+          "Business center",
+          "LCD projectors and AV equipment",
+          "Wedding venues"
+        ],
+        "room_features": [
+          "Air conditioning",
+          "Private balcony with lake or garden view",
+          "Minibar",
+          "Coffee/tea maker",
+          "LCD TV with cable",
+          "In-room safe",
+          "Bathrobes and slippers",
+          "24-hour room service"
+        ]
+      }
+    },
+    "arba minch": {
+      "display_name": "Haile Resort Arba Minch",
+      "property_highlights": "107-room resort overlooking twin lakes Abaya and Chamo, gateway to Nechisar National Park and Omo Valley",
+      "amenities": {
+        "pools_and_water": [
+          "Outdoor swimming pool",
+          "Children's pool"
+        ],
+        "sports_and_recreation": [
+          "Boat trips on Lake Chamo",
+          "Crocodile market tours (via concierge)",
+          "Nechisar National Park excursions",
+          "Dorze village cultural visits"
+        ],
+        "wellness": [
+          "Full-service spa",
+          "Health club",
+          "Steam room and sauna",
+          "Swedish and deep tissue massage",
+          "Wheelchair-accessible spa"
+        ],
+        "dining": [
+          "4 restaurants with lake viewpoints",
+          "2 coffee shops",
+          "2 bars/lounges",
+          "Free buffet breakfast",
+          "Barbecue/outdoor cooking"
+        ],
+        "family": [
+          "Children's playground",
+          "Kids pool",
+          "Family rooms"
+        ],
+        "business": [
+          "Conference and wedding venues",
+          "Multi-purpose halls"
+        ],
+        "room_features": [
+          "Soundproof rooms",
+          "Satellite TV",
+          "Air conditioning",
+          "Bathrobes and slippers",
+          "In-room safe",
+          "Bidet and premium toiletries"
+        ]
+      }
+    },
+    "ziway": {
+      "display_name": "Haile Resort Ziway (Batu)",
+      "property_highlights": "Lakeside resort on Lake Ziway, reopened 2023, ideal stopover between Addis Ababa and southern Ethiopia",
+      "amenities": {
+        "pools_and_water": [
+          "Outdoor pool",
+          "Children's pool"
+        ],
+        "sports_and_recreation": [
+          "Indoor tennis court",
+          "Boat trips on Lake Ziway",
+          "Birdwatching (pelicans, fish eagles)",
+          "Arcade/game room"
+        ],
+        "wellness": [
+          "Health club",
+          "Spa",
+          "Steam room"
+        ],
+        "dining": [
+          "Restaurant",
+          "Coffee shop",
+          "Bar/lounge",
+          "Garden terrace dining"
+        ],
+        "family": [
+          "Playground",
+          "Children's pool",
+          "Free cribs available"
+        ],
+        "business": [
+          "Business center",
+          "Conference facilities"
+        ],
+        "room_features": [
+          "Flat-screen TV",
+          "Electric kettle",
+          "Air conditioning",
+          "Balcony",
+          "Bathrobes and slippers"
+        ]
+      }
+    },
+    "adama": {
+      "display_name": "Haile Resort Adama",
+      "property_highlights": "106-room city resort in the Rift Valley, popular with business travelers en route to Hawassa",
+      "amenities": {
+        "dining": [
+          "Restaurant",
+          "Room service",
+          "Free breakfast"
+        ],
+        "business": [
+          "Conference facilities",
+          "Business services",
+          "Meeting rooms"
+        ],
+        "general": [
+          "Free Wi-Fi",
+          "Free parking",
+          "Connecting rooms available"
+        ],
+        "room_features": [
+          "Laptop workspace",
+          "Cable TV",
+          "Air conditioning",
+          "Connecting rooms"
+        ]
+      }
+    },
+    "addis_ababa": {
+      "display_name": "Haile Grand Addis Ababa",
+      "property_highlights": "5-star urban hotel at Lamberet Square, 4.3 mi from Bole International Airport",
+      "amenities": {
+        "pools_and_water": [
+          "Year-round outdoor swimming pool",
+          "Pool/beach towels and umbrellas"
+        ],
+        "wellness": [
+          "Full-service spa with massage, body treatments, facials",
+          "Sauna and steam room",
+          "Fitness center with yoga and aerobics classes",
+          "Beauty salon — haircut, coloring, manicure, pedicure, makeup"
+        ],
+        "dining": [
+          "8 food and beverage outlets",
+          "Restaurant (Mexican, Middle Eastern, Asian, international)",
+          "Lobby bar",
+          "Excellent breakfast buffet"
+        ],
+        "business": [
+          "Entoto Ballroom (up to 800 guests)",
+          "Chillalo Ballroom (up to 1,000 guests)",
+          "Multiple meeting rooms and boardrooms"
+        ],
+        "general": [
+          "Free airport shuttle",
+          "Garden and terrace",
+          "Family rooms",
+          "Tea/coffee maker in all rooms",
+          "24-hour front desk and concierge"
+        ],
+        "room_features": [
+          "City or mountain views",
+          "Premium and executive suites",
+          "Presidential suite",
+          "In-room safe",
+          "Modern amenities"
+        ]
+      }
+    },
+    "gondar": {
+      "display_name": "Haile Resort Gondar",
+      "property_highlights": "Heritage city hotel at 2,133m elevation, near Fasil Ghebbi UNESCO World Heritage Site",
+      "amenities": {
+        "dining": [
+          "8 food and beverage outlets",
+          "Heritage-themed restaurant",
+          "Free breakfast"
+        ],
+        "recreation": [
+          "Swimming pool",
+          "Guided city tours (Fasil Ghebbi, Debre Berhan Selassie church)"
+        ],
+        "business": [
+          "5 conference halls (VIP to 800 capacity)",
+          "Wedding venues"
+        ],
+        "general": [
+          "Free Wi-Fi",
+          "Free parking",
+          "Concierge for Simien Mountains trips"
+        ],
+        "room_features": [
+          "Garden or historic city views",
+          "Executive suites",
+          "Standard, twin, and king rooms"
+        ]
+      }
+    }
+  }
+}

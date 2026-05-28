@@ -1,0 +1,180 @@
+{
+  "general_ethiopia": {
+    "best_time_to_visit": "October to March (dry season) offers warm, sunny days ideal for travel. July–August is rainy season in most regions.",
+    "currency": "Ethiopian Birr (ETB). Carry cash — card acceptance outside major hotels is limited.",
+    "tipping": "10% service charge is often included at hotels. Additional tipping of 50–100 ETB for good service is appreciated.",
+    "ethiopian_time": "Ethiopians often use a 12-hour clock starting at dawn (6:00 AM international = 12:00 Ethiopian). Clarify AM/PM if scheduling.",
+    "language": "Amharic is the national language. English is widely spoken in hotels and tourist areas. Learning 'Ameseginalehu' (thank you) and 'Selam' (hello) is appreciated.",
+    "health": [
+      "Drink bottled or boiled water outside the hotel",
+      "Altitude: Addis Ababa is at 2,355m — allow a day to acclimatize if arriving from sea level",
+      "Malaria precautions recommended for lowland areas (Arba Minch, Omo Valley)"
+    ],
+    "dress_code": [
+      "Modest dress recommended at churches and religious sites (cover shoulders and knees)",
+      "Remove shoes when entering Ethiopian Orthodox churches",
+      "Resort casual wear is fine at Haile properties"
+    ],
+    "photography": [
+      "Always ask permission before photographing people",
+      "Some churches prohibit photography inside — look for signs or ask guides"
+    ],
+    "connectivity": "Ethiopian Telecom and Safaricom SIM cards available at the airport. Haile properties offer free Wi-Fi."
+  },
+  "by_location": {
+    "hawassa": {
+      "display_name": "Haile Resort Hawassa",
+      "getting_there": {
+        "from_addis_ababa": "275 km, 3.5–5 hours by car via the Addis–Hawassa highway. Selam Bus and other services run daily (5–6 hours). Direct flights to Hawassa Airport (~10 km from city).",
+        "local_transport": "Bajaj (tuk-tuk) is the easiest way around town. Agree on fare before boarding."
+      },
+      "must_do": [
+        "Boat ride on Lake Hawassa to spot hippos and birdlife (~500 ETB, ~1 hour)",
+        "Visit Amora Gedel fish market at sunrise — watch fishermen, pelicans, and fresh tilapia grilled on the spot",
+        "Hike Mount Tabor for panoramic views of the city and lake",
+        "Day trip to Wondo Genet hot springs (20 km away)"
+      ],
+      "best_season": "Year-round destination. October–March is driest. Sidama New Year (Fiche Chembelala) is a unique cultural festival.",
+      "local_specialties": [
+        "Fresh lake tilapia and catfish",
+        "Sidama coffee — some of Ethiopia's finest",
+        "Avocado and mango from the Rift Valley"
+      ],
+      "safety_tips": [
+        "Do not swim in Lake Hawassa — hippos and bilharzia risk",
+        "Keep valuables secure at the fish market",
+        "Use hotel-arranged transport at night"
+      ],
+      "packing": ["Sunscreen", "Light layers (evenings can be cool at 1,685m)", "Binoculars for birdwatching", "Comfortable walking shoes"]
+    },
+    "arba minch": {
+      "display_name": "Haile Resort Arba Minch",
+      "getting_there": {
+        "from_addis_ababa": "~505 km, 7–8 hours by road. Ethiopian Airlines flies to Arba Minch Airport (free hotel shuttle).",
+        "local_transport": "Hotel can arrange tours. Bajaj available in town."
+      },
+      "must_do": [
+        "Boat trip on Lake Chamo to see crocodiles and hippos",
+        "Visit the 'Forty Springs' (Arba Minch means 'forty springs')",
+        "Nechisar National Park — zebras, gazelles, and diverse birdlife",
+        "Day trip to Dorze village for traditional bamboo houses and weaving",
+        "God's Bridge — natural rock arch between lakes Abaya and Chamo"
+      ],
+      "best_season": "October–March. Gateway to Omo Valley tribal tours (multi-day trips).",
+      "local_specialties": [
+        "Fresh fish from Lakes Abaya and Chamo",
+        "Soursop and tropical fruit juices",
+        "Asa Dulet (spiced minced fish)"
+      ],
+      "safety_tips": [
+        "Respect cultural customs when visiting Omo Valley tribes — use licensed guides",
+        "Do not approach wild crocodiles outside guided tours",
+        "Carry insect repellent for lowland areas"
+      ],
+      "packing": ["Light clothing (warmer at night)", "Sun hat", "Insect repellent", "Camera for wildlife"]
+    },
+    "ziway": {
+      "display_name": "Haile Resort Ziway (Batu)",
+      "getting_there": {
+        "from_addis_ababa": "~160 km, 2.5–3 hours. Convenient stopover on the road to Hawassa or Bale Mountains.",
+        "local_transport": "Walking along the lakeside promenade. Bajaj for town trips."
+      },
+      "must_do": [
+        "Boat trip on Lake Ziway to see pelicans, fish eagles, and island monasteries",
+        "Birdwatching — over 200 species recorded",
+        "Visit Tulu Gudo island monastery (requires boat)"
+      ],
+      "best_season": "October–March for birdwatching. Lake levels vary seasonally.",
+      "local_specialties": [
+        "Fresh lake fish",
+        "Local wine from Ziway area vineyards"
+      ],
+      "safety_tips": [
+        "Book boat trips through the hotel concierge for safety",
+        "Avoid swimming in the lake"
+      ],
+      "packing": ["Binoculars", "Sun protection", "Light jacket for evenings"]
+    },
+    "adama": {
+      "display_name": "Haile Resort Adama",
+      "getting_there": {
+        "from_addis_ababa": "~100 km, 1.5–2 hours via expressway. Popular weekend escape from the capital.",
+        "local_transport": "Taxi and bajaj available."
+      },
+      "must_do": [
+        "Explore Adama's markets and Rift Valley scenery",
+        "Day trip to nearby Awash National Park (wildlife, hot springs)",
+        "Visit Sodere hot springs resort area"
+      ],
+      "best_season": "Year-round. Hotter than Addis due to lower elevation (~1,700m).",
+      "local_specialties": [
+        "Fresh tropical fruits",
+        "Rift Valley cuisine"
+      ],
+      "safety_tips": [
+        "Stay hydrated — warmer and drier than highland cities",
+        "Use hotel transport for park visits"
+      ],
+      "packing": ["Light breathable clothing", "Sun hat", "Swimwear for hot springs day trips"]
+    },
+    "addis_ababa": {
+      "display_name": "Haile Grand Addis Ababa",
+      "getting_there": {
+        "from_airport": "Bole International Airport is 4.3 mi (7 km) away. Free hotel shuttle available — book in advance.",
+        "local_transport": "Ride apps (Ride, Feres) and blue taxis. Hotel concierge can arrange drivers."
+      },
+      "must_do": [
+        "National Museum — see 'Lucy', the 3.2-million-year-old hominid fossil",
+        "Holy Trinity Cathedral — burial site of Emperor Haile Selassie",
+        "Entoto Hill — panoramic city views and Maryam Church",
+        "Merkato — one of Africa's largest open-air markets",
+        "Addis Ababa Museum and Science Museum",
+        "Traditional coffee ceremony at a local coffee house"
+      ],
+      "best_season": "October–May (dry season). Timkat (Epiphany, January) and Meskel (September) are spectacular festivals.",
+      "local_specialties": [
+        "Ethiopian coffee — birthplace of coffee",
+        "Injera with assorted wats at traditional restaurants",
+        "Tej (honey wine) at tej bet (wine houses)"
+      ],
+      "safety_tips": [
+        "Use registered taxis or ride apps at night",
+        "Keep valuables out of sight at Merkato",
+        "Allow time for altitude acclimatization (2,355m)"
+      ],
+      "packing": ["Warm layer for evenings", "Comfortable walking shoes", "Adapter (Type C/E plugs, 220V)", "Small daypack for city exploring"]
+    },
+    "gondar": {
+      "display_name": "Haile Resort Gondar",
+      "getting_there": {
+        "from_addis_ababa": "730 km, ~12 hours by road or 1-hour flight to Gondar Airport.",
+        "from_bahir_dar": "175 km, 3–4 hours. From Simien Mountains: 120 km.",
+        "local_transport": "Bajaj and taxis. Hotel arranges guided tours."
+      },
+      "must_do": [
+        "Fasil Ghebbi (Royal Enclosure) — UNESCO site with six castles from the 17th century",
+        "Debre Berhan Selassie Church — famous angel ceiling paintings",
+        "Fasilides' Bath — used for Timkat (Epiphany) celebrations",
+        "Simien Mountains National Park day trip or overnight (UNESCO, gelada baboons, dramatic scenery)",
+        "Kidame Gebeya market for local crafts"
+      ],
+      "best_season": "October–March. Timkat (January 19) is the most spectacular festival in Gondar.",
+      "local_specialties": [
+        "Traditional Gondar cuisine",
+        "Hand-woven textiles from local markets"
+      ],
+      "safety_tips": [
+        "Simien Mountains require warm clothing — temperatures drop significantly",
+        "Hire licensed guides for mountain treks",
+        "Respect church customs — women cover hair with shawl"
+      ],
+      "packing": ["Warm layers (2,133m elevation)", "Sturdy shoes for castle exploration", "Rain jacket (June–September)", "Sun protection"]
+    }
+  },
+  "cultural_etiquette": {
+    "greetings": "Handshakes are common. Ethiopians may touch shoulders during greeting among friends. 'Tenaystilign' (Amharic) or 'Nagaa' (Oromiffa) for hello.",
+    "dining": "Injera is both plate and utensil — tear off pieces to scoop food. Wash hands before and after eating. Guests are often served first.",
+    "coffee_ceremony": "It is polite to accept at least one cup. The third round (baraka) is considered a blessing.",
+    "religious_sites": "Women cover hair in Orthodox churches. Silence and respect are expected. No flash photography where prohibited."
+  }
+}

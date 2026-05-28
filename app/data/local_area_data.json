@@ -1,0 +1,307 @@
+{
+  "locations": {
+    "hawassa": {
+      "display_name": "Haile Resort Hawassa",
+      "city_overview": "Capital of the Sidama Region and a popular weekend escape from Addis Ababa. A vibrant lakeside city at 1,685m in the Great Rift Valley, known for warm hospitality, fresh fish, and birdlife.",
+      "resort_location": "On the shores of Lake Hawassa with direct lake access, beach bar, and panoramic views from rooms and restaurants.",
+      "nearby_attractions": [
+        {
+          "name": "Lake Hawassa",
+          "distance": "On property",
+          "type": "Nature",
+          "description": "Freshwater Rift Valley lake with hippos, pelicans, and fish eagles. Boat tours available.",
+          "duration": "1–2 hours",
+          "cost_estimate_etb": "500 per boat"
+        },
+        {
+          "name": "Amora Gedel Fish Market (Asa Gebeya)",
+          "distance": "3 km",
+          "type": "Cultural / Market",
+          "description": "Iconic lakeside fish market where fishermen sell fresh tilapia. Best visited at sunrise.",
+          "duration": "1 hour",
+          "cost_estimate_etb": "100 entrance for tourists"
+        },
+        {
+          "name": "Mount Tabor",
+          "distance": "5 km",
+          "type": "Hiking / Viewpoint",
+          "description": "Short hike to panoramic views over the city and lake. Popular at sunset.",
+          "duration": "2–3 hours"
+        },
+        {
+          "name": "Saint Gabriel Church",
+          "distance": "4 km",
+          "type": "Religious / Cultural",
+          "description": "Important Orthodox church, especially active during annual festivals."
+        },
+        {
+          "name": "Wondo Genet Hot Springs",
+          "distance": "20 km",
+          "type": "Nature / Wellness",
+          "description": "Natural hot springs in a forest setting. Popular day trip for swimming and relaxation.",
+          "duration": "Half day"
+        },
+        {
+          "name": "Abidjatta-Shalla National Park",
+          "distance": "50 km",
+          "type": "Wildlife / Nature",
+          "description": "Flamingos, ostriches, and diverse birdlife around two Rift Valley lakes.",
+          "duration": "Full day"
+        }
+      ],
+      "restaurants_outside_hotel": [
+        {"name": "Lewi Resort Restaurant", "cuisine": "Ethiopian & international", "note": "Lakeside alternative dining"},
+        {"name": "Local lakeside fish grills", "cuisine": "Fresh tilapia", "note": "Near Amora Gedel market"}
+      ],
+      "shopping": [
+        {"name": "Hawassa Souvenir Market", "items": "Sidama textiles, coffee, crafts"},
+        {"name": "Sidama Coffee Cooperatives", "items": "Premium green and roasted coffee"}
+      ],
+      "transport": {
+        "airport": "Hawassa International Airport, ~10 km from city center",
+        "bus_station": "Selam Bus and other services to Addis Ababa (5–6 hours)",
+        "local": "Bajaj (tuk-tuk) 20–50 ETB for short trips"
+      }
+    },
+    "arba minch": {
+      "display_name": "Haile Resort Arba Minch",
+      "city_overview": "Gateway city to southern Ethiopia's tribal regions and national parks. Named 'forty springs,' it sits between two of Ethiopia's largest Rift Valley lakes — Abaya and Chamo.",
+      "resort_location": "Grand viewpoint overlooking twin lakes Abaya and Chamo with evergreen vegetation and mountain backdrop.",
+      "nearby_attractions": [
+        {
+          "name": "Lake Chamo",
+          "distance": "5 km",
+          "type": "Nature / Wildlife",
+          "description": "Boat tours to see Nile crocodiles, hippos, and pelicans. Famous 'crocodile market.'",
+          "duration": "2–3 hours",
+          "cost_estimate_etb": "3,500 per boat (up to 6 guests)"
+        },
+        {
+          "name": "Lake Abaya",
+          "distance": "8 km",
+          "type": "Nature",
+          "description": "Larger of the twin lakes with dramatic red waters and mountain views."
+        },
+        {
+          "name": "Nechisar National Park",
+          "distance": "15 km",
+          "type": "Wildlife",
+          "description": "Zebras, gazelles, hippos, and the 'Bridge of God' isthmus between the two lakes.",
+          "duration": "Half to full day"
+        },
+        {
+          "name": "Dorze Village",
+          "distance": "30 km",
+          "type": "Cultural",
+          "description": "Highland village famous for bamboo beehive-shaped houses and weaving traditions.",
+          "duration": "Half day"
+        },
+        {
+          "name": "Forty Springs (Arba Minch)",
+          "distance": "3 km",
+          "type": "Nature",
+          "description": "Natural springs that give the city its name. Peaceful forest setting."
+        },
+        {
+          "name": "Omo Valley",
+          "distance": "200+ km",
+          "type": "Cultural",
+          "description": "Multi-day trips to visit diverse tribal communities. Book through hotel concierge.",
+          "duration": "2–5 days"
+        }
+      ],
+      "restaurants_outside_hotel": [
+        {"name": "Local fish restaurants", "cuisine": "Lake Chamo fish", "note": "Near the lake shore"}
+      ],
+      "transport": {
+        "airport": "Arba Minch Airport with free hotel shuttle",
+        "local": "Hotel-arranged tours recommended for national park and village visits"
+      }
+    },
+    "ziway": {
+      "display_name": "Haile Resort Ziway (Batu)",
+      "city_overview": "Small lakeside town on Lake Ziway, one of the Rift Valley's freshwater lakes. A peaceful stopover known for birdlife and island monasteries.",
+      "resort_location": "Lakefront property with pool, tennis, and garden terrace.",
+      "nearby_attractions": [
+        {
+          "name": "Lake Ziway",
+          "distance": "On property",
+          "type": "Nature / Birdwatching",
+          "description": "Boat trips to see pelicans, fish eagles, and island monasteries.",
+          "duration": "2 hours",
+          "cost_estimate_etb": "2,200 per boat (up to 4 guests)"
+        },
+        {
+          "name": "Tulu Gudo Island",
+          "distance": "Boat access from lake shore",
+          "type": "Religious / Cultural",
+          "description": "Island monastery said to have housed the Ark of the Covenant in medieval times.",
+          "duration": "Half day"
+        },
+        {
+          "name": "Ziway Vineyards",
+          "distance": "10 km",
+          "type": "Culinary",
+          "description": "Local wine production in the Rift Valley."
+        }
+      ],
+      "transport": {
+        "from_addis_ababa": "160 km, 2.5–3 hours — ideal stopover",
+        "local": "Walking along lakeside; bajaj for town"
+      }
+    },
+    "adama": {
+      "display_name": "Haile Resort Adama",
+      "city_overview": "Second-largest city in Oromia Region and a major Rift Valley hub, 100 km southeast of Addis Ababa. Known for warm climate and access to Awash National Park.",
+      "resort_location": "City resort with conference facilities, restaurant, and parking.",
+      "nearby_attractions": [
+        {
+          "name": "Awash National Park",
+          "distance": "90 km",
+          "type": "Wildlife",
+          "description": "Oryx, baboons, crocodiles, and hot springs. One of Ethiopia's oldest national parks.",
+          "duration": "Full day"
+        },
+        {
+          "name": "Sodere Hot Springs",
+          "distance": "30 km",
+          "type": "Wellness",
+          "description": "Resort area with natural hot springs and swimming pools."
+        },
+        {
+          "name": "Adama Markets",
+          "distance": "2 km",
+          "type": "Shopping / Cultural",
+          "description": "Local markets with fresh produce, spices, and textiles."
+        }
+      ],
+      "transport": {
+        "from_addis_ababa": "100 km via expressway, 1.5–2 hours",
+        "local": "Taxi and bajaj"
+      }
+    },
+    "addis_ababa": {
+      "display_name": "Haile Grand Addis Ababa",
+      "city_overview": "Ethiopia's capital and Africa's diplomatic hub at 2,355m. A vibrant mix of ancient culture, museums, markets, and modern development.",
+      "resort_location": "Lamberet Square, Asmara Road, Yeka sub-city. 4.3 mi from Bole International Airport.",
+      "nearby_attractions": [
+        {
+          "name": "National Museum of Ethiopia",
+          "distance": "8 km",
+          "type": "Museum",
+          "description": "Home of 'Lucy' (Dinkinesh) and extensive Ethiopian art and archaeology.",
+          "duration": "2–3 hours"
+        },
+        {
+          "name": "Holy Trinity Cathedral",
+          "distance": "6 km",
+          "type": "Religious / Historical",
+          "description": "Neo-baroque cathedral and burial site of Emperor Haile Selassie."
+        },
+        {
+          "name": "Entoto Hill & Park",
+          "distance": "12 km",
+          "type": "Nature / Viewpoint",
+          "description": "Eucalyptus forest, Maryam Church, and panoramic views over the city.",
+          "duration": "Half day"
+        },
+        {
+          "name": "Merkato",
+          "distance": "10 km",
+          "type": "Market",
+          "description": "One of Africa's largest open-air markets. Best with a guide.",
+          "duration": "2–3 hours"
+        },
+        {
+          "name": "Addis Ababa Museum",
+          "distance": "7 km",
+          "type": "Museum",
+          "description": "City history from founding to present."
+        },
+        {
+          "name": "Matti Multiplex Theater",
+          "distance": "5 km",
+          "type": "Entertainment",
+          "description": "Modern cinema and entertainment complex nearby."
+        },
+        {
+          "name": "Ethnological Museum (Addis Ababa University)",
+          "distance": "9 km",
+          "type": "Museum",
+          "description": "Housed in Haile Selassie's former palace. Excellent cultural overview."
+        }
+      ],
+      "restaurants_outside_hotel": [
+        {"name": "Yod Abyssinia", "cuisine": "Traditional Ethiopian with live music", "note": "Cultural dining experience"},
+        {"name": "2000 Habesha Cultural Restaurant", "cuisine": "Ethiopian", "note": "Traditional dance performances"},
+        {"name": "Tomoca Coffee", "cuisine": "Coffee", "note": "Historic coffee shop since 1953"}
+      ],
+      "shopping": [
+        {"name": "Shiromeda Market", "items": "Handicrafts, souvenirs, traditional clothing"},
+        {"name": "Merkato", "items": "Everything — spices, coffee, textiles"},
+        {"name": "Churchill Avenue shops", "items": "Books, crafts, leather goods"}
+      ],
+      "transport": {
+        "airport": "Bole International Airport (ADD), free hotel shuttle",
+        "local": "Ride apps (Ride, Feres), blue taxis, Light Rail (selected routes)"
+      }
+    },
+    "gondar": {
+      "display_name": "Haile Resort Gondar",
+      "city_overview": "Historic imperial capital at 2,133m, known as the 'Camelot of Africa' for its royal castles. UNESCO World Heritage Site and gateway to the Simien Mountains.",
+      "resort_location": "Within reach of Fasil Ghebbi and major historic sites. Pool, restaurant, and conference facilities.",
+      "nearby_attractions": [
+        {
+          "name": "Fasil Ghebbi (Royal Enclosure)",
+          "distance": "3 km",
+          "type": "UNESCO / Historical",
+          "description": "Six 17th-century castles including Fasilides' Castle. The heart of Gondar's imperial heritage.",
+          "duration": "2–3 hours",
+          "cost_estimate_etb": "500 entrance"
+        },
+        {
+          "name": "Debre Berhan Selassie Church",
+          "distance": "4 km",
+          "type": "Religious / Art",
+          "description": "Famous for its ceiling of 80 angel faces. One of Ethiopia's most beautiful churches.",
+          "duration": "1 hour"
+        },
+        {
+          "name": "Fasilides' Bath",
+          "distance": "3 km",
+          "type": "Historical",
+          "description": "Royal bathing pool used for Timkat (Epiphany) celebrations every January 19.",
+          "duration": "30 minutes"
+        },
+        {
+          "name": "Simien Mountains National Park",
+          "distance": "120 km",
+          "type": "UNESCO / Trekking",
+          "description": "Dramatic escarpments, gelada baboons, Walia ibex. Day trips or multi-day treks.",
+          "duration": "Full day to multi-day"
+        },
+        {
+          "name": "Kidame Gebeya Market",
+          "distance": "2 km",
+          "type": "Market",
+          "description": "Traditional market for crafts, spices, and daily goods."
+        },
+        {
+          "name": "Kuskuam Complex",
+          "distance": "5 km",
+          "type": "Historical",
+          "description": "Ruins of Empress Mentewab's palace and church."
+        }
+      ],
+      "restaurants_outside_hotel": [
+        {"name": "Four Sisters Restaurant", "cuisine": "Ethiopian & international", "note": "Popular with tourists, garden setting"},
+        {"name": "Master Chef Restaurant", "cuisine": "Ethiopian", "note": "Traditional platters"}
+      ],
+      "transport": {
+        "airport": "Gondar Airport (GDQ), 1-hour flight from Addis Ababa",
+        "from_bahir_dar": "175 km, 3–4 hours by road",
+        "local": "Bajaj and hotel-arranged guides for historic sites"
+      }
+    }
+  }
+}
